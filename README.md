@@ -5,6 +5,10 @@
 새로운 기술에 대한 호기심을 바탕으로 다양한 개발 분야를 탐색하고,
 배운 내용을 직접 구현하며 성장하고 있습니다.
 
+## (중요!!)OSS기반 SW프로그래밍 과제
+팀 프로젝트 URL : https://github.com/HereHear-OSS/HereHear-OSS
+클릭해주세요
+
 ## 🌱 Currently Learning
 
 - **Languages:** C, C++, Python
